@@ -1,0 +1,25 @@
+{
+  "name": "empty-function-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader for replace code of file to empty function.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aduryagin/empty-function-loader"
+  },
+  "author": {
+    "name": "Alexey Duryagin",
+    "email": "aiduryagih@gmail.com",
+    "url": "https://github.com/aduryagin"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "webpack",
+    "webpack loader",
+    "function loader",
+    "empty function loader"
+  ],
+  "license": "MIT"
+}
